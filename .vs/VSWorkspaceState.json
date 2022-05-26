@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AutoComplete"
   ],
-  "SelectedNode": "\\AutoComplete.sln",
+  "SelectedNode": "\\AutoComplete\\Autocomplete.cs",
   "PreviewInSolutionExplorer": false
 }
