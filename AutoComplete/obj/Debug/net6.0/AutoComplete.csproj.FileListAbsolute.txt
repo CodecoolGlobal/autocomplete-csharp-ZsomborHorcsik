@@ -1,0 +1,12 @@
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\bin\Debug\net6.0\AutoComplete.deps.json
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\bin\Debug\net6.0\AutoComplete.dll
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\bin\Debug\net6.0\AutoComplete.pdb
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\AutoComplete.csproj.AssemblyReference.cache
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\AutoComplete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\AutoComplete.AssemblyInfoInputs.cache
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\AutoComplete.AssemblyInfo.cs
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\AutoComplete.csproj.CoreCompileInputs.cache
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\AutoComplete.dll
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\refint\AutoComplete.dll
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\AutoComplete.pdb
+C:\Users\horcs\source\repos\autocomplete-csharp-ZsomborHorcsik\AutoComplete\obj\Debug\net6.0\ref\AutoComplete.dll
